@@ -3,6 +3,7 @@ import ReactDOM, { render } from 'react-dom';
 import './index.css';
 import App from './App';   //นำเข้ามาใช้งาน
 import reportWebVitals from './reportWebVitals';
+import RecordFinancial from "./component/financial";
 
 
 // first way to create component : FunctionalComponent
@@ -16,7 +17,7 @@ class ClassComponent extends React.Component{
   }
 }
 // How to import component from external
-import RecordFinancial from './component/financial.js'
+
 
 ReactDOM.render(<RecordFinancial/>,document.getElementById('root'));
 
