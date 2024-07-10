@@ -14,12 +14,12 @@ Check out the live demo [here](https://financial-app-log.netlify.app/).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Expense-Tracker-React.git
+    git clone https://github.com/PharadolBrown/expense-tracker-react
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Expense-Tracker-React
+    cd expense-traker-react
     ```
 
 3. Install the dependencies:
